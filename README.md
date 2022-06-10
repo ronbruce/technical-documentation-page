@@ -2,12 +2,13 @@
 I'm building a technical Documentation Page for a project on free-code-camp. 
 
 <!DOCTYPE html>
-
 <html>
-
+ <head>
+   <link rel="stylesheet" href="styles.css">
+   </head>
 <nav id="navbar">
 
-<header>Organize the clutter in your brain and get things done</header>
+<header>Organize the clutter in your brain and get things done.</header>
 
 <ul>
   
@@ -22,58 +23,76 @@ I'm building a technical Documentation Page for a project on free-code-camp.
 </nav>
 
 <main id="main-doc">
-
-  <section class="main-section" id="Capture"><header>Capture</header>
+<section class="main-section" id="Capture"><header>Capture</header>
 
 <p>
   <code>"Hello GTD"</code>
   </p>
+ 
  <p> 
+    
  <ul>
-  <li></li>
+  <li>Capture everything that crosses your mind. The brain is used for having ideas, not storing them so write things down.</li>
+  </p>
   </ul> 
-</p>
+
+
 <section class="main-section" id="Clarify"><header>Clarify</header>
+
 <p>
   <code>"Hello GTD"</code>
   </p>
+ 
  <p> 
  <ul>
-  <li></li>
+  <li>Process what you capture into concrete steps. Be clear about what it is you want to do.</li>
+  
   </ul> 
 </p>
+
 <section class="main-section" id="Organize"><header>Organize</header>
+
 <p>
   <code>"Hello GTD"</code>
   </p>
+ 
  <p> 
  <ul>
-  <li></li>
+  <li>Put everything in different categories. Delagate some task to calendar. Add links to material etc.</li>
+  
   </ul> 
 </p>
-<section class="main-section" id=<"Review"><header>Review</header>
+
+
+<section class="main-section" id="Review"><header>Review</header>
+
 <p>
   <code>"Hello GTD"</code>
   </p>
+ 
  <p> 
  <ul>
-  <li></li>
+  <li>Review list daily. Do a big review once a week.</li>
+  
   </ul> 
 </p>
+
 <section class="main-section" id="Engage"><header>Engage</header>
+
 <p>
   <code>"Hello GTD"</code>
   </p>
+ 
  <p> 
  <ul>
-  <li></li>
+  <li>Use the system to get started on what to work on now or later. Do what's important and delegate what is not urgent.</li>
+  
   </ul> 
 </p>
+
     </main>
 
-  </html>
-<!-- CSS stylesheet to link to CSS.
-  <link rel="stylesheet" href="styles.css"> 
 
-I did not add the CSS code. I may need to create a seperate repository for that. 
--->
+  </html>
+<!--
+  remember to write an outline of what your website will look like before you write the code...also draft the actual website too -->
